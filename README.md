@@ -1,2 +1,2 @@
-# Maths-caliculator
-A mini project on HTML &amp; CSS
+# Maths-Calculator
+A mini project on HTML & CSS
